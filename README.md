@@ -1,2 +1,21 @@
+<div align="center">
+
+  
 # zeroreciter
-A Raspberry Pi Zero 2w based Quran audio player.
+Local Quran player built with a Raspberry Pi.
+
+# Installation
+- TBA
+
+# Usage
+- TBA
+
+# Roadmap
+- TBA
+
+
+
+
+
+
+
